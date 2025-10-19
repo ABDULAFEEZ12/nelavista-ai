@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tellavista-ai.github.io/sitemap.xml
+
+# SEO Boosters
+User-agent: Googlebot
+Disallow: /private/
+Allow: /
+
+User-agent: Bingbot
+Disallow: /private/
+Allow: /
+
+# Tellavista AI Robots Policy
+# This file tells search engines that all public pages can be indexed.
+# The sitemap ensures every important page (home, about, learn, coding, math, jamb, motivation, etc.) is crawled.
