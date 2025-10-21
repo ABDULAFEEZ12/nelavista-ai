@@ -3,39 +3,41 @@
   xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
+  <!-- Homepage -->
   <url>
-    <loc>https://tellavista-ai.github.io/</loc>
+    <loc>https://abdulafeez12.github.io/nelavistaedu/</loc>
     <lastmod>2025-10-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
+  <!-- Core Pages -->
   <url>
-    <loc>https://tellavista-ai.github.io/about</loc>
+    <loc>https://abdulafeez12.github.io/nelavistaedu/about</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://tellavista-ai.github.io/learn</loc>
+    <loc>https://abdulafeez12.github.io/nelavistaedu/learn</loc>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
 
   <url>
-    <loc>https://tellavista-ai.github.io/motivation</loc>
+    <loc>https://abdulafeez12.github.io/nelavistaedu/motivation</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://tellavista-ai.github.io/jamb</loc>
+    <loc>https://abdulafeez12.github.io/nelavistaedu/jamb</loc>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
 
   <url>
-    <loc>https://tellavista-ai.github.io/contact</loc>
+    <loc>https://abdulafeez12.github.io/nelavistaedu/contact</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
